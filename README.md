@@ -15,9 +15,4 @@ This file is organized into four (4) sections
 4. **CLI implementation**: a function to run the agent loop locally
 5. **Telegram Bot implementation**: a function to run the agent loop through Telegram Bot calling (i.e. through Telegram Bot chat)
 
-### Results
-
-The capture of the tool calling process for the first tool -- search_papers()
-
-![Search Paper](search-papers.png)
 
